@@ -157,7 +157,7 @@ To fix all Linter error automatically
 - GitHub: [@feliverse](https://github.com/Feliverse)
 - Linkedin: [Felipe Haybar](https://www.linkedin.com/in/felipehaybar/)
 
-👤 **Author2**
+👤 **Marcelo Alarcon Barrenechea**
 
 : Marcelo Alarcon Barrenechea
 
